@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Franklin\source\repos\login system\login system\main.cpp(41,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Franklin\source\repos\login system\login system\main.cpp(66,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  login system.vcxproj -> C:\Users\Franklin\source\repos\login system\x64\Debug\login system.exe
